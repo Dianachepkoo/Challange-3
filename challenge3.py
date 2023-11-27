@@ -23,6 +23,6 @@ def consonant_value(word):
     
     return max_value
 
-# Test cases
-print(consonant_value("chepkoech"))  # Output: 39
-print(consonant_value("lazy_people_are_wise"))  # Output: 66
+#Test Cases
+print(consonant_value("strength"))  # Output: 57
+print(consonant_value("programming_is_fun"))  # Output 34
